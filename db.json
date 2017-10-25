@@ -1,0 +1,1004 @@
+{
+  "articles": [
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0111161/",
+      "title": "The Shawshank Redemption",
+      "year_type": "1994",
+      "rating": "9.3",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. (142 mins.)",
+      "director": "Frank Darabont",
+      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+      "duration": "142"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0468569/",
+      "title": "The Dark Knight",
+      "year_type": "2008",
+      "rating": "9.0",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice. (152 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+      "duration": "152"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1375666/",
+      "title": "Inception",
+      "year_type": "2010",
+      "rating": "8.8",
+      "description": "A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO. (148 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",
+      "duration": "148"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0137523/",
+      "title": "Fight Club",
+      "year_type": "1999",
+      "rating": "8.8",
+      "description": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more. (139 mins.)",
+      "director": "David Fincher",
+      "stars": "Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier",
+      "duration": "139"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0110912/",
+      "title": "Pulp Fiction",
+      "year_type": "1994",
+      "rating": "8.9",
+      "description": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption. (154 mins.)",
+      "director": "Quentin Tarantino",
+      "stars": "John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",
+      "duration": "154"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0109830/",
+      "title": "Forrest Gump",
+      "year_type": "1994",
+      "rating": "8.8",
+      "description": "JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75. (142 mins.)",
+      "director": "Robert Zemeckis",
+      "stars": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field",
+      "duration": "142"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120737/",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year_type": "2001",
+      "rating": "8.8",
+      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron. (178 mins.)",
+      "director": "Peter Jackson",
+      "stars": "Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",
+      "duration": "178"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0133093/",
+      "title": "The Matrix",
+      "year_type": "1999",
+      "rating": "8.7",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. (136 mins.)",
+      "director": "The Wachowski Brothers, The Wachowski Brothers",
+      "stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+      "duration": "136"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0167260/",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year_type": "2003",
+      "rating": "8.9",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring. (201 mins.)",
+      "director": "Peter Jackson",
+      "stars": "Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",
+      "duration": "201"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0068646/",
+      "title": "The Godfather",
+      "year_type": "1972",
+      "rating": "9.2",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. (175 mins.)",
+      "director": "Francis Ford Coppola",
+      "stars": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
+      "duration": "175"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1345836/",
+      "title": "The Dark Knight Rises",
+      "year_type": "2012",
+      "rating": "8.4",
+      "description": "Eight years after the Joker's reign of anarchy, the Dark Knight, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City, now on the edge of total annihilation, from the brutal guerrilla terrorist Bane. (164 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",
+      "duration": "164"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0167261/",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year_type": "2002",
+      "rating": "8.7",
+      "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard. (179 mins.)",
+      "director": "Peter Jackson",
+      "stars": "Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",
+      "duration": "179"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0114369/",
+      "title": "Se7en",
+      "year_type": "1995",
+      "rating": "8.6",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives. (127 mins.)",
+      "director": "David Fincher",
+      "stars": "Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",
+      "duration": "127"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0848228/",
+      "title": "The Avengers",
+      "year_type": "2012",
+      "rating": "8.1",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity. (143 mins.)",
+      "director": "Joss Whedon",
+      "stars": "Robert Downey Jr., Chris Evans, Scarlett Johansson, Jeremy Renner",
+      "duration": "143"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0172495/",
+      "title": "Gladiator",
+      "year_type": "2000",
+      "rating": "8.5",
+      "description": "When a Roman General is betrayed, and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge. (155 mins.)",
+      "director": "Ridley Scott",
+      "stars": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+      "duration": "155"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0372784/",
+      "title": "Batman Begins",
+      "year_type": "2005",
+      "rating": "8.3",
+      "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it. (152 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Christian Bale, Michael Caine, Ken Watanabe, Liam Neeson",
+      "duration": "152"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1853728/",
+      "title": "Django Unchained",
+      "year_type": "2012",
+      "rating": "8.4",
+      "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner. (165 mins.)",
+      "director": "Quentin Tarantino",
+      "stars": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+      "duration": "165"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0816692/",
+      "title": "Interstellar",
+      "year_type": "2014",
+      "rating": "8.6",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival. (169 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",
+      "duration": "169"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0076759/",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year_type": "1977",
+      "rating": "8.7",
+      "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader. (121 mins.)",
+      "director": "George Lucas",
+      "stars": "Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",
+      "duration": "121"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0102926/",
+      "title": "The Silence of the Lambs",
+      "year_type": "1991",
+      "rating": "8.6",
+      "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims. (118 mins.)",
+      "director": "Jonathan Demme",
+      "stars": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",
+      "duration": "118"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0499549/",
+      "title": "Avatar",
+      "year_type": "2009",
+      "rating": "7.8",
+      "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. (162 mins.)",
+      "director": "James Cameron",
+      "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez",
+      "duration": "162"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0361748/",
+      "title": "Inglourious Basterds",
+      "year_type": "2009",
+      "rating": "8.3",
+      "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same. (153 mins.)",
+      "director": "Quentin Tarantino",
+      "stars": "Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent",
+      "duration": "153"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120815/",
+      "title": "Saving Private Ryan",
+      "year_type": "1998",
+      "rating": "8.6",
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action. (169 mins.)",
+      "director": "Steven Spielberg",
+      "stars": "Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",
+      "duration": "169"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0407887/",
+      "title": "The Departed",
+      "year_type": "2006",
+      "rating": "8.5",
+      "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston. (151 mins.)",
+      "director": "Martin Scorsese",
+      "stars": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
+      "duration": "151"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0108052/",
+      "title": "Schindler's List",
+      "year_type": "1993",
+      "rating": "8.9",
+      "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans. (195 mins.)",
+      "director": "Steven Spielberg",
+      "stars": "Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",
+      "duration": "195"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0209144/",
+      "title": "Memento",
+      "year_type": "2000",
+      "rating": "8.5",
+      "description": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle. (113 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+      "duration": "113"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0482571/",
+      "title": "The Prestige",
+      "year_type": "2006",
+      "rating": "8.5",
+      "description": "After a tragic accident two stage magicians engage in a battle to create the ultimate illusion whilst sacrificing everything they have to outwit the other. (130 mins.)",
+      "director": "Christopher Nolan",
+      "stars": "Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",
+      "duration": "130"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0080684/",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year_type": "1980",
+      "rating": "8.8",
+      "description": "After the rebels are overpowered by the Empire on their newly established base, Luke Skywalker begins Jedi training with Master Yoda. His friends accept shelter from a questionable ally as Darth Vader hunts them in a plan to capture Luke. (124 mins.)",
+      "director": "Irvin Kershner",
+      "stars": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "duration": "124"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0169547/",
+      "title": "American Beauty",
+      "year_type": "1999",
+      "rating": "8.4",
+      "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend. (122 mins.)",
+      "director": "Sam Mendes",
+      "stars": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+      "duration": "122"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0325980/",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year_type": "2003",
+      "rating": "8.0",
+      "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead. (143 mins.)",
+      "director": "Gore Verbinski",
+      "stars": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+      "duration": "143"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120338/",
+      "title": "Titanic",
+      "year_type": "1997",
+      "rating": "7.8",
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic. (194 mins.)",
+      "director": "James Cameron",
+      "stars": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",
+      "duration": "194"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0434409/",
+      "title": "V for Vendetta",
+      "year_type": "2005",
+      "rating": "8.2",
+      "description": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman. (132 mins.)",
+      "director": "James McTeigue",
+      "stars": "Hugo Weaving, Natalie Portman, Rupert Graves, Stephen Rea",
+      "duration": "132"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0071562/",
+      "title": "The Godfather: Part II",
+      "year_type": "1974",
+      "rating": "9.0",
+      "description": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on the family crime syndicate. (202 mins.)",
+      "director": "Francis Ford Coppola",
+      "stars": "Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",
+      "duration": "202"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1130884/",
+      "title": "Shutter Island",
+      "year_type": "2010",
+      "rating": "8.1",
+      "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer, who escaped from a hospital for the criminally insane. (138 mins.)",
+      "director": "Martin Scorsese",
+      "stars": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo, Ben Kingsley",
+      "duration": "138"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120586/",
+      "title": "American History X",
+      "year_type": "1998",
+      "rating": "8.5",
+      "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did. (119 mins.)",
+      "director": "Tony Kaye",
+      "stars": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+      "duration": "119"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120689/",
+      "title": "The Green Mile",
+      "year_type": "1999",
+      "rating": "8.5",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift. (189 mins.)",
+      "director": "Frank Darabont",
+      "stars": "Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt",
+      "duration": "189"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0993846/",
+      "title": "The Wolf of Wall Street",
+      "year_type": "2013",
+      "rating": "8.2",
+      "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government. (180 mins.)",
+      "director": "Martin Scorsese",
+      "stars": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
+      "duration": "180"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0103064/",
+      "title": "Terminator 2: Judgment Day",
+      "year_type": "1991",
+      "rating": "8.5",
+      "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg. (137 mins.)",
+      "director": "James Cameron",
+      "stars": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+      "duration": "137"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0114814/",
+      "title": "The Usual Suspects",
+      "year_type": "1995",
+      "rating": "8.6",
+      "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup. (106 mins.)",
+      "director": "Bryan Singer",
+      "stars": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin",
+      "duration": "106"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0112573/",
+      "title": "Braveheart",
+      "year_type": "1995",
+      "rating": "8.4",
+      "description": "When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England. (178 mins.)",
+      "director": "Mel Gibson",
+      "stars": "Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen",
+      "duration": "178"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0266697/",
+      "title": "Kill Bill: Vol. 1",
+      "year_type": "2003",
+      "rating": "8.1",
+      "description": "The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of. (111 mins.)",
+      "director": "Quentin Tarantino",
+      "stars": "Uma Thurman, David Carradine, Daryl Hannah, Michael Madsen",
+      "duration": "111"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0088763/",
+      "title": "Back to the Future",
+      "year_type": "1985",
+      "rating": "8.5",
+      "description": "Marty McFly, a seventeen-year-old high school student, is accidentally sent thirty years into the past in a time-travelling DeLorean invented by his close friend, the maverick scientist Doc Brown. (116 mins.)",
+      "director": "Robert Zemeckis",
+      "stars": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+      "duration": "116"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0099685/",
+      "title": "Goodfellas",
+      "year_type": "1990",
+      "rating": "8.7",
+      "description": "The story of Henry Hill and his life through the teen years into the years of mafia, covering his relationship with his wife Karen Hill and his Mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate. (146 mins.)",
+      "director": "Martin Scorsese",
+      "stars": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",
+      "duration": "146"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0110413/",
+      "title": "Léon: The Professional",
+      "year_type": "1994",
+      "rating": "8.6",
+      "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade. (110 mins.)",
+      "director": "Luc Besson",
+      "stars": "Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",
+      "duration": "110"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0910970/",
+      "title": "WALL·E",
+      "year_type": "2008",
+      "rating": "8.4",
+      "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind. (98 mins.)",
+      "director": "Andrew Stanton",
+      "stars": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",
+      "duration": "98"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0167404/",
+      "title": "The Sixth Sense",
+      "year_type": "1999",
+      "rating": "8.1",
+      "description": "A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist. (107 mins.)",
+      "director": "M. Night Shyamalan",
+      "stars": "Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",
+      "duration": "107"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1392170/",
+      "title": "The Hunger Games",
+      "year_type": "2012",
+      "rating": "7.2",
+      "description": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death. (142 mins.)",
+      "director": "Gary Ross",
+      "stars": "Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Stanley Tucci",
+      "duration": "142"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0371746/",
+      "title": "Iron Man",
+      "year_type": "2008",
+      "rating": "7.9",
+      "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil. (126 mins.)",
+      "director": "Jon Favreau",
+      "stars": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard, Jeff Bridges",
+      "duration": "126"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0266543/",
+      "title": "Finding Nemo",
+      "year_type": "2003",
+      "rating": "8.1",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home. (100 mins.)",
+      "director": "Andrew Stanton, Lee Unkrich",
+      "stars": "Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe",
+      "duration": "100"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0086190/",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "year_type": "1983",
+      "rating": "8.4",
+      "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor's trap. (131 mins.)",
+      "director": "Richard Marquand",
+      "stars": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "duration": "131"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0073486/",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year_type": "1975",
+      "rating": "8.7",
+      "description": "A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients. (133 mins.)",
+      "director": "Milos Forman",
+      "stars": "Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco",
+      "duration": "133"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt2015381/",
+      "title": "Guardians of the Galaxy",
+      "year_type": "2014",
+      "rating": "8.1",
+      "description": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe. (121 mins.)",
+      "director": "James Gunn",
+      "stars": "Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",
+      "duration": "121"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120382/",
+      "title": "The Truman Show",
+      "year_type": "1998",
+      "rating": "8.1",
+      "description": "An insurance salesman/adjuster discovers his entire life is actually a television show. (103 mins.)",
+      "director": "Peter Weir",
+      "stars": "Jim Carrey, Ed Harris, Laura Linney, Noah Emmerich",
+      "duration": "103"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0338013/",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year_type": "2004",
+      "rating": "8.3",
+      "description": "When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with. (108 mins.)",
+      "director": "Michel Gondry",
+      "stars": "Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",
+      "duration": "108"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1049413/",
+      "title": "Up",
+      "year_type": "2009",
+      "rating": "8.3",
+      "description": "Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway. (96 mins.)",
+      "director": "Pete Docter, Bob Peterson",
+      "stars": "Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer",
+      "duration": "96"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0105236/",
+      "title": "Reservoir Dogs",
+      "year_type": "1992",
+      "rating": "8.3",
+      "description": "After a simple jewelry heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant. (99 mins.)",
+      "director": "Quentin Tarantino",
+      "stars": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+      "duration": "99"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0082971/",
+      "title": "Raiders of the Lost Ark",
+      "year_type": "1981",
+      "rating": "8.5",
+      "description": "Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis. (115 mins.)",
+      "director": "Steven Spielberg",
+      "stars": "Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",
+      "duration": "115"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0401792/",
+      "title": "Sin City",
+      "year_type": "2005",
+      "rating": "8.0",
+      "description": "A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption. (124 mins.)",
+      "director": "Frank Miller, Robert Rodriguez",
+      "stars": "Mickey Rourke, Clive Owen, Bruce Willis, Jessica Alba",
+      "duration": "124"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0110357/",
+      "title": "The Lion King",
+      "year_type": "1994",
+      "rating": "8.5",
+      "description": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble. (88 mins.)",
+      "director": "Roger Allers, Rob Minkoff",
+      "stars": "Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",
+      "duration": "88"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1010048/",
+      "title": "Slumdog Millionaire",
+      "year_type": "2008",
+      "rating": "8.0",
+      "description": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\" (120 mins.)",
+      "director": "Danny Boyle, Loveleen Tandan",
+      "stars": "Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor",
+      "duration": "120"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0903624/",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year_type": "2012",
+      "rating": "7.9",
+      "description": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug. (169 mins.)",
+      "director": "Peter Jackson",
+      "stars": "Martin Freeman, Ian McKellen, Richard Armitage, Andy Serkis",
+      "duration": "169"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0114709/",
+      "title": "Toy Story",
+      "year_type": "1995",
+      "rating": "8.3",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room. (81 mins.)",
+      "director": "John Lasseter",
+      "stars": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney",
+      "duration": "81"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0107290/",
+      "title": "Jurassic Park",
+      "year_type": "1993",
+      "rating": "8.1",
+      "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok. (127 mins.)",
+      "director": "Steven Spielberg",
+      "stars": "Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",
+      "duration": "127"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0477348/",
+      "title": "No Country for Old Men",
+      "year_type": "2007",
+      "rating": "8.1",
+      "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande. (122 mins.)",
+      "director": "Ethan Coen, Joel Coen",
+      "stars": "Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",
+      "duration": "122"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0268978/",
+      "title": "A Beautiful Mind",
+      "year_type": "2001",
+      "rating": "8.2",
+      "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish. (135 mins.)",
+      "director": "Ron Howard",
+      "stars": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",
+      "duration": "135"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0081505/",
+      "title": "The Shining",
+      "year_type": "1980",
+      "rating": "8.4",
+      "description": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future. (146 mins.)",
+      "director": "Stanley Kubrick",
+      "stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+      "duration": "146"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0416449/",
+      "title": "300",
+      "year_type": "2006",
+      "rating": "7.7",
+      "description": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C. (117 mins.)",
+      "director": "Zack Snyder",
+      "stars": "Gerard Butler, Lena Headey, David Wenham, Dominic West",
+      "duration": "117"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0119217/",
+      "title": "Good Will Hunting",
+      "year_type": "1997",
+      "rating": "8.3",
+      "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life. (126 mins.)",
+      "director": "Gus Van Sant",
+      "stars": "Robin Williams, Matt Damon, Ben Affleck, Stellan Skarsgård",
+      "duration": "126"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0208092/",
+      "title": "Snatch",
+      "year_type": "2000",
+      "rating": "8.3",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond. (104 mins.)",
+      "director": "Guy Ritchie",
+      "stars": "Jason Statham, Brad Pitt, Benicio Del Toro, Dennis Farina",
+      "duration": "104"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0088247/",
+      "title": "The Terminator",
+      "year_type": "1984",
+      "rating": "8.0",
+      "description": "A seemingly indestructible humanoid cyborg is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs. (107 mins.)",
+      "director": "James Cameron",
+      "stars": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield",
+      "duration": "107"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0095016/",
+      "title": "Die Hard",
+      "year_type": "1988",
+      "rating": "8.2",
+      "description": "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles. (131 mins.)",
+      "director": "John McTiernan",
+      "stars": "Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",
+      "duration": "131"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0198781/",
+      "title": "Monsters, Inc.",
+      "year_type": "2001",
+      "rating": "8.1",
+      "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think. (92 mins.)",
+      "director": "Pete Docter, David Silverman",
+      "stars": "Billy Crystal, John Goodman, Mary Gibbs, Steve Buscemi",
+      "duration": "92"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1119646/",
+      "title": "The Hangover",
+      "year_type": "2009",
+      "rating": "7.8",
+      "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding. (100 mins.)",
+      "director": "Todd Phillips",
+      "stars": "Zach Galifianakis, Bradley Cooper, Justin Bartha, Ed Helms",
+      "duration": "100"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1454468/",
+      "title": "Gravity",
+      "year_type": "2013",
+      "rating": "7.8",
+      "description": "Two astronauts work together to survive after an accident which leaves them alone in space. (91 mins.)",
+      "director": "Alfonso Cuarón",
+      "stars": "Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen",
+      "duration": "91"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0246578/",
+      "title": "Donnie Darko",
+      "year_type": "2001",
+      "rating": "8.1",
+      "description": "A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes a bizarre accident. (113 mins.)",
+      "director": "Richard Kelly",
+      "stars": "Jake Gyllenhaal, Jena Malone, Mary McDonnell, Holmes Osborne",
+      "duration": "113"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0180093/",
+      "title": "Requiem for a Dream",
+      "year_type": "2000",
+      "rating": "8.3",
+      "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep. (102 mins.)",
+      "director": "Darren Aronofsky",
+      "stars": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",
+      "duration": "102"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt2267998/",
+      "title": "Gone Girl",
+      "year_type": "2014",
+      "rating": "8.1",
+      "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent. (149 mins.)",
+      "director": "David Fincher",
+      "stars": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",
+      "duration": "149"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0078748/",
+      "title": "Alien",
+      "year_type": "1979",
+      "rating": "8.5",
+      "description": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun. (117 mins.)",
+      "director": "Ridley Scott",
+      "stars": "Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright",
+      "duration": "117"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt2488496/",
+      "title": "Star Wars: Episode VII - The Force Awakens",
+      "year_type": "2015",
+      "rating": "8.1",
+      "description": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and spare parts scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker. (136 mins.)",
+      "director": "J.J. Abrams",
+      "stars": "Daisy Ridley, John Boyega, Oscar Isaac, Domhnall Gleeson",
+      "duration": "136"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1205489/",
+      "title": "Gran Torino",
+      "year_type": "2008",
+      "rating": "8.2",
+      "description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino. (116 mins.)",
+      "director": "Clint Eastwood",
+      "stars": "Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her",
+      "duration": "116"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0066921/",
+      "title": "A Clockwork Orange",
+      "year_type": "1971",
+      "rating": "8.3",
+      "description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned. (136 mins.)",
+      "director": "Stanley Kubrick",
+      "stars": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",
+      "duration": "136"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1300854/",
+      "title": "Iron Man 3",
+      "year_type": "2013",
+      "rating": "7.2",
+      "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution. (130 mins.)",
+      "director": "Shane Black",
+      "stars": "Robert Downey Jr., Guy Pearce, Gwyneth Paltrow, Don Cheadle",
+      "duration": "130"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0947798/",
+      "title": "Black Swan",
+      "year_type": "2010",
+      "rating": "8.0",
+      "description": "A committed dancer wins the lead role in a production of Tchaikovsky's \"Swan Lake\" only to find herself struggling to maintain her sanity. (108 mins.)",
+      "director": "Darren Aronofsky",
+      "stars": "Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder",
+      "duration": "108"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1392190/",
+      "title": "Mad Max: Fury Road",
+      "year_type": "2015",
+      "rating": "8.1",
+      "description": "A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max. (120 mins.)",
+      "director": "George Miller",
+      "stars": "Tom Hardy, Charlize Theron, Nicholas Hoult, Zoë Kravitz",
+      "duration": "120"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0770828/",
+      "title": "Man of Steel",
+      "year_type": "2013",
+      "rating": "7.1",
+      "description": "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction. (143 mins.)",
+      "director": "Zack Snyder",
+      "stars": "Henry Cavill, Amy Adams, Michael Shannon, Diane Lane",
+      "duration": "143"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0145487/",
+      "title": "Spider-Man",
+      "year_type": "2002",
+      "rating": "7.3",
+      "description": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family. (121 mins.)",
+      "director": "Sam Raimi",
+      "stars": "Tobey Maguire, Kirsten Dunst, Willem Dafoe, James Franco",
+      "duration": "121"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0435761/",
+      "title": "Toy Story 3",
+      "year_type": "2010",
+      "rating": "8.3",
+      "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home. (103 mins.)",
+      "director": "Lee Unkrich",
+      "stars": "Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",
+      "duration": "103"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1201607/",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year_type": "2011",
+      "rating": "8.1",
+      "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts. (130 mins.)",
+      "director": "David Yates",
+      "stars": "Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon",
+      "duration": "130"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0086250/",
+      "title": "Scarface",
+      "year_type": "1983",
+      "rating": "8.3",
+      "description": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed. (170 mins.)",
+      "director": "Brian De Palma",
+      "stars": "Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio",
+      "duration": "170"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0118715/",
+      "title": "The Big Lebowski",
+      "year_type": "1998",
+      "rating": "8.2",
+      "description": "\"The Dude\" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it. (117 mins.)",
+      "director": "Joel Coen",
+      "stars": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",
+      "duration": "117"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0800369/",
+      "title": "Thor",
+      "year_type": "2011",
+      "rating": "7.0",
+      "description": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders. (115 mins.)",
+      "director": "Kenneth Branagh",
+      "stars": "Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston",
+      "duration": "115"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0120915/",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year_type": "1999",
+      "rating": "6.5",
+      "description": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory. (136 mins.)",
+      "director": "George Lucas",
+      "stars": "Ewan McGregor, Liam Neeson, Natalie Portman, Jake Lloyd",
+      "duration": "136"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0211915/",
+      "title": "Amélie",
+      "year_type": "2001",
+      "rating": "8.4",
+      "description": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. (122 mins.)",
+      "director": "Jean-Pierre Jeunet",
+      "stars": "Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta",
+      "duration": "122"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1045658/",
+      "title": "Silver Linings Playbook",
+      "year_type": "2012",
+      "rating": "7.8",
+      "description": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own. (122 mins.)",
+      "director": "David O. Russell",
+      "stars": "Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver",
+      "duration": "122"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0317248/",
+      "title": "City of God",
+      "year_type": "2002",
+      "rating": "8.7",
+      "description": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer. (130 mins.)",
+      "director": "Fernando Meirelles, Kátia Lund",
+      "stars": "Alexandre Rodrigues, Matheus Nachtergaele, Leandro Firmino, Phellipe Haagensen",
+      "duration": "130"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1136608/",
+      "title": "District 9",
+      "year_type": "2009",
+      "rating": "8.0",
+      "description": "An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology. (112 mins.)",
+      "director": "Neill Blomkamp",
+      "stars": "Sharlto Copley, David James, Jason Cope, Nathalie Boltt",
+      "duration": "112"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0480249/",
+      "title": "I Am Legend",
+      "year_type": "2007",
+      "rating": "7.2",
+      "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure. (101 mins.)",
+      "director": "Francis Lawrence",
+      "stars": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
+      "duration": "101"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0264464/",
+      "title": "Catch Me If You Can",
+      "year_type": "2002",
+      "rating": "8.1",
+      "description": "The story of Frank Abagnale Jr., before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and legal prosecutor as a seasoned and dedicated FBI agent pursues him. (141 mins.)",
+      "director": "Steven Spielberg",
+      "stars": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+      "duration": "141"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt1074638/",
+      "title": "Skyfall",
+      "year_type": "2012",
+      "rating": "7.8",
+      "description": "Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost. (143 mins.)",
+      "director": "Sam Mendes",
+      "stars": "Daniel Craig, Javier Bardem, Naomie Harris, Judi Dench",
+      "duration": "143"
+    },
+    {
+      "url": "http://www.imdb.com/list/ls063676189//title/tt0383574/",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year_type": "2006",
+      "rating": "7.3",
+      "description": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well. (151 mins.)",
+      "director": "Gore Verbinski",
+      "stars": "Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",
+      "duration": "151"
+    }
+  ]
+}
