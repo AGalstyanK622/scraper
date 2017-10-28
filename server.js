@@ -3,8 +3,6 @@ const jsonServer = require('json-server')
 const router = jsonServer.router('db.json')
 const basicAuth = require('express-basic-auth')
 
-
-
 const server = jsonServer.create()
 const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 3000;
