@@ -54,9 +54,9 @@ var data = {
                 how: "text"
             },
             director: {
-                selector: "div.secondary:nth-child(even)", 
+                selector: "div.secondary:nth-child(even)",
                 how: "text",
-                 convert: function(x) {
+                convert: function(x) {
                     var str = x;
                     var res = str.replace("Director: ", "");
                     return res;
@@ -65,7 +65,7 @@ var data = {
             stars: {
                 selector: "div.secondary:nth-child(odd)",
                 how: "text",
-                  convert: function(x) {
+                convert: function(x) {
                     var str = x;
                     var res = str.replace("Stars: ", "");
                     return res;
@@ -74,7 +74,7 @@ var data = {
             duration: {
                 selector: ".item_description span",
                 how: "text",
-                  convert: function(x) {
+                convert: function(x) {
                     var reg = new RegExp(/\d+/g);
                     if (reg.test(x)) {
                         var found = x.match(reg);
@@ -93,14 +93,17 @@ function callback(error, response, body) {
         page = scrapeIt.scrapeHTML(body, data);
 
         jsonfile.readFile(file, function(err, obj) {
-            if(err) console.error(err);
+            if (err) console.error(err);
 
             console.log("start: ", obj.articles.length);
             obj.articles = [...obj.articles, ...page.articles];
             console.log("end: ", obj.articles.length);
             //var data = Object.assign(obj, page);
-            jsonfile.writeFile(file, obj, {flag: 'w', spaces: 2}, function(err) {
-                if(err) console.error(err);
+            jsonfile.writeFile(file, obj, {
+                flag: 'w',
+                spaces: 2
+            }, function(err) {
+                if (err) console.error(err);
                 else {
                     console.log('success');
                     scraperloop(++i);
@@ -123,11 +126,15 @@ function scraperloop(i) {
 }
 
 (function() {
-    jsonfile.writeFile(file, {"articles": []}, {flag: 'w', spaces: 2}, function(err) {
-        if(err) {
+    jsonfile.writeFile(file, {
+        "articles": []
+    }, {
+        flag: 'w',
+        spaces: 2
+    }, function(err) {
+        if (err) {
             console.error(err);
-        }
-        else {
+        } else {
             console.log("Run scraperloop");
             scraperloop(i);
         }

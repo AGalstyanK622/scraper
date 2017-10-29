@@ -1,98 +1,111 @@
 var moviesByRating, moviesByYear;
 
-google.charts.load('45', { packages: ['corechart', 'table', 'geochart'] });
+google.charts.load('45', {
+    packages: ['corechart', 'table', 'geochart']
+});
 google.charts.setOnLoadCallback(getJsonData);
+
+
+//GET JSON DATA
 
 function getJsonData() {
     $.ajax({
         url: "/articles",
         dataType: "json",
-        success: function (jsonData){
+        success: function(jsonData) {
             moviesByRating = sortMoviesByRating(jsonData);
             moviesByYear = sortMoviesByYear(jsonData);
             moviesByDuration = sortMoviesByDuration(jsonData);
 
-            
+
             drawPieChart(moviesByRating);
             drawColumnChart(moviesByYear);
             drawAreaChart(moviesByYear);
             drawPieChart2(moviesByDuration);
             //drawTable(jsonData);
-            
+            drawTable();
+
         }
     });
 }
 
+
+//SORTs MOVIES BY RATING
 function sortMoviesByRating(jsonData) {
-    var res = [0,0,0,0];
+    var res = [0, 0, 0, 0];
 
     for (var i = 0; i <= jsonData.length; i++) {
-        if(i == jsonData.length) {
-            res[0] = res[0]/jsonData.length;
-            res[1] = res[1]/jsonData.length;
-            res[2] = res[2]/jsonData.length;
-            res[3] = res[3]/jsonData.length;
+        if (i == jsonData.length) {
+            res[0] = res[0] / jsonData.length;
+            res[1] = res[1] / jsonData.length;
+            res[2] = res[2] / jsonData.length;
+            res[3] = res[3] / jsonData.length;
             return res;
-        } else if(Number(jsonData[i].rating) > 9) {
+        } else if (Number(jsonData[i].rating) > 9) {
             res[0]++;
-        } else if(Number(jsonData[i].rating) > 8) {
-            res[1]++;            
-        } else if(Number(jsonData[i].rating) > 7) {
-            res[2]++;            
+        } else if (Number(jsonData[i].rating) > 8) {
+            res[1]++;
+        } else if (Number(jsonData[i].rating) > 7) {
+            res[2]++;
         } else {
             res[3]++;
         }
     }
 }
-
+//SORTs MOVIES BY YEAR
 function sortMoviesByYear(jsonData) {
     var res = [];
     var oldestMovieYear = new Date().getFullYear() + 1;
     var formatedData = {};
 
     for (var i = 0; i <= jsonData.length; i++) {
-        if(i == jsonData.length) {
+        if (i == jsonData.length) {
             return formatArray();
         }
 
-        if(!formatedData['year_' +jsonData[i].year_type]) {
+        if (!formatedData['year_' + jsonData[i].year_type]) {
             oldestMovieYear = (oldestMovieYear > +jsonData[i].year_type) ? +jsonData[i].year_type : oldestMovieYear;
-            formatedData['year_' +jsonData[i].year_type] = 0;
+            formatedData['year_' + jsonData[i].year_type] = 0;
         }
-        formatedData['year_' +jsonData[i].year_type]++;
+        formatedData['year_' + jsonData[i].year_type]++;
     }
 
     function formatArray() {
         for (var i = oldestMovieYear; i <= new Date().getFullYear() + 1; i++) {
-            if(i == new Date().getFullYear() + 1) {
-                return res;    
+            if (i == new Date().getFullYear() + 1) {
+                return res;
             }
-            res.push([i.toString(), formatedData['year_'+i] || 0 ]);
+            res.push([i.toString(), formatedData['year_' + i] || 0]);
         }
     }
 }
-
+//SORTs MOVIES BY DURATION
 function sortMoviesByDuration(jsonData) {
-    var resArr = [0,0,0,0];
+    var resArr = [0, 0, 0, 0];
 
     for (var i = 0; i <= jsonData.length; i++) {
-        if(i == jsonData.length) {
-            resArr[0] = resArr[0]/jsonData.length;
-            resArr[1] = resArr[1]/jsonData.length;
-            resArr[2] = resArr[2]/jsonData.length;
-            resArr[3] = resArr[3]/jsonData.length;
+        if (i == jsonData.length) {
+            resArr[0] = resArr[0] / jsonData.length;
+            resArr[1] = resArr[1] / jsonData.length;
+            resArr[2] = resArr[2] / jsonData.length;
+            resArr[3] = resArr[3] / jsonData.length;
             return resArr;
-        } else if(Number(jsonData[i].duration) > 120) {
+        } else if (Number(jsonData[i].duration) > 120) {
             resArr[0]++;
-        } else if(Number(jsonData[i].duration) > 100) {
-            resArr[1]++;            
-        } else if(Number(jsonData[i].duration) > 90) {
-            resArr[2]++;            
+        } else if (Number(jsonData[i].duration) > 100) {
+            resArr[1]++;
+        } else if (Number(jsonData[i].duration) > 90) {
+            resArr[2]++;
         } else {
             resArr[3]++;
         }
     }
 }
+
+
+
+
+//DRAWs the CHARTS
 
 function drawPieChart(moviesByRating) {
     var data = new google.visualization.DataTable();
@@ -100,10 +113,10 @@ function drawPieChart(moviesByRating) {
     data.addColumn('number', 'Percentage');
 
     data.addRows([
-        ['> 9', moviesByRating[0] ],
-        ['> 8', moviesByRating[1] ],
-        ['> 7',  moviesByRating[2] ],
-        ['<= 6',  moviesByRating[3] ]
+        ['> 9', moviesByRating[0]],
+        ['> 8', moviesByRating[1]],
+        ['> 7', moviesByRating[2]],
+        ['<= 6', moviesByRating[3]]
     ]);
 
     var options = {
@@ -128,7 +141,12 @@ function drawColumnChart(moviesByYear) {
 
     var options = {
         title: 'Movies by Year',
-        hAxis: { title: 'Year', titleTextStyle: { color: 'red' } }
+        hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+                color: '#02304D'
+            }
+        }
     };
 
     var chart = new google.visualization.ColumnChart(document.getElementById('column_chart'));
@@ -144,9 +162,16 @@ function drawAreaChart(moviesByYear) {
     data.addRows(moviesByYear);
 
     var options = {
-        title: 'Movies By Year',
-        hAxis: { title: 'Year', titleTextStyle: { color: '#333' } },
-        vAxis: { minValue: 0 }
+        title: 'TOP 10000 Movies by Year',
+        hAxis: {
+            title: 'Year',
+            titleTextStyle: {
+                color: '#333'
+            }
+        },
+        vAxis: {
+            minValue: 0
+        }
     };
 
     var chart = new google.visualization.AreaChart(document.getElementById('area_chart'));
@@ -159,15 +184,15 @@ function drawPieChart2(moviesByDuration) {
     data.addColumn('number', 'Percentage');
 
     data.addRows([
-        ['> 120m', moviesByDuration[0] ],
-        ['> 100m', moviesByDuration[1] ],
-        ['> 90m',  moviesByDuration[2] ],
-        ['<= 90m',  moviesByDuration[3] ]
+        ['> 120m', moviesByDuration[0]],
+        ['> 100m', moviesByDuration[1]],
+        ['> 90m', moviesByDuration[2]],
+        ['<= 90m', moviesByDuration[3]]
     ]);
 
     var options = {
         legend: 'left',
-        title: 'Duration Measurement',
+        title: 'Movies Duration Measurement',
         width: '100%',
         height: '100%',
         pieHole: 0.4
@@ -178,6 +203,7 @@ function drawPieChart2(moviesByDuration) {
     chart.draw(data, options);
 }
 
+//GETTING FULL DATA
 /*
 function drawTable(jsonData) {
             var data = new google.visualization.DataTable();
@@ -210,10 +236,47 @@ function drawTable(jsonData) {
 
 */
 
-$(window).resize(function () {
+//GETTING USEABLE DATA
+function drawTable() {
+    $.ajax({
+        url: "/articles?_start=20&_end=1400",
+        dataType: "json",
+        success: function(jsonData) {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Title');
+            data.addColumn('string', 'Year_Type');
+            data.addColumn('string', 'Rating');
+            data.addColumn('string', 'Duration');
+
+            for (var i = 0; i < jsonData.length; i++) {
+                data.addRow([
+                    jsonData[i].title,
+                    jsonData[i].year_type,
+                    jsonData[i].rating,
+                    jsonData[i].duration,
+                ]);
+            }
+
+            var options = {
+                allowHtml: true,
+                showRowNumber: true,
+                width: '100%',
+                height: '100%'
+            };
+
+            var table = new google.visualization.Table(document.getElementById('barformat_div'));
+            table.draw(data, options);
+        }
+    })
+}
+
+
+$(window).resize(function() {
     drawPieChart(moviesByRating);
     drawColumnChart(moviesByYear);
     drawAreaChart(moviesByYear);
     drawPieChart2(moviesByDuration);
     //drawTable(jsonData);
+    drawTable();
+
 });
